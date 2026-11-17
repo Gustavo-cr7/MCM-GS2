@@ -27,6 +27,3 @@
 
 2. **`Notebook_GS2026_2_MCM.ipynb`**  
    Jupyter Notebook pronto para execução no Jupyter/Google Colab contendo toda a fundamentação em Markdown/LaTeX e os blocos de código das Etapas 1 e 2 já executados.
-
-4. **`assets/`**  
-   Gráficos comparativos utilizados no relatório.
